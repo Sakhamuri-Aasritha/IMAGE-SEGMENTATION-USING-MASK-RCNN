@@ -1,1 +1,2 @@
 # IMAGE-SEGMENTATION-USING-MASK-RCNN
+The project developed is a new method for image segmentation using Mask R-CNN by this the objects in the image are identified. Along with the object identification, it also results in the class, object mask, and bounding box coordinates of the object. The Proposed system is an image segmentation model using a regional convolutional neural network for segmenting pre-captured images and live captured images.
